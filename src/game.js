@@ -1,6 +1,6 @@
 "use strict;"
 
-export class Game {
+export Game {
 
   /**
    * @constructor Game
